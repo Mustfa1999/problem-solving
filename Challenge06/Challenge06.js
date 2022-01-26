@@ -16,7 +16,7 @@ const findMax = (arr)=>{
             max = arr[i];
         }
     }
-    return 5;
+    return max;
 }
 
 // 2) ---------------------
